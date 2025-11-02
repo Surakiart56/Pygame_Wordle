@@ -1,2 +1,3 @@
-﻿# Pygame_Wordle โหลๆเทส
+﻿# Pygame_Wordle
+
 
